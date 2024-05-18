@@ -1,3 +1,0 @@
-"# gitpracticepublic" 
-"# gitpracticepublic" 
-"# gitpractice" 
