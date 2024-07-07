@@ -1,4 +1,3 @@
 print("testing")
 print("hiii")
-print("Hi World!")
-print("new code2")
+print("This is it...")
